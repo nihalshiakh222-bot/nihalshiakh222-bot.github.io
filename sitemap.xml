@@ -3,14 +3,9 @@
 
   <url>
     <loc>https://nihalshiakh222-bot.github.io/</loc>
-  </url>
-
-  <url>
-    <loc>https://nihalshiakh222-bot.github.io/article1.html</loc>
-  </url>
-
-  <url>
-    <loc>https://nihalshiakh222-bot.github.io/article2.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
 
 </urlset>
